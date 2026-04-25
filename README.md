@@ -10,7 +10,7 @@ This interactive data application is designed for Regional Sales Managers and Bu
 It was developed as the **Track 4 (Interactive Data Tool)** submission for the **ACC102 Mini Assignment** at Xi'an Jiaotong-Liverpool University (XJTLU).
 
 ### 🚀 Live Demo & Video
-* **🌐 Web App:** [Click here to view the deployed Dashboard](🔗_REPLACE_WITH_YOUR_STREAMLIT_APP_LINK_HERE)
+* **🌐 Web App:** [Click here to view the deployed Dashboard](🔗_https://acc102-l4ttw2t49aeqgemwkm89ma.streamlit.app/)
 * **🎬 Demo Video:** [Click here to watch the 1-3 min Demo](🔗_REPLACE_WITH_YOUR_VIDEO_LINK_HERE)
 
 ---
